@@ -1,0 +1,14 @@
+[ATTR]
+nTotalType = 1
+
+[TYPE1]
+sTex1Name = bullet1_expl_low.jpg
+sTex2Name = bullet1_expl_high.jpg
+fTileWidth = 2.5
+fTileHeight = 2.5
+nBoard0Width = 4
+nBoard0Height = 4
+nBoard1Width = 8
+nBoard1Height = 8
+vColor0 = 0.5 0.5 0.5
+vColor1 = 1 0.5 0.0

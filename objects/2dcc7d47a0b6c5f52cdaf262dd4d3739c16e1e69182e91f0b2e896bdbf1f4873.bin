@@ -1,0 +1,42 @@
+[ATTR]
+sBackTex = scoreboard.dds
+nBackSX = 100
+nBackSY = 80
+nBackX = 550
+nBackY = 250
+sNumberTex = digit_number.dds
+nNumberSX = 32
+nNumberSY = 32
+vNumberPos = 590 19 0
+vCountPos = 490 285 0
+vScorePos = 530 320 0
+fOffRate = 0.6
+vRank0 = 570 316 0
+vRank1 = 570 348 0
+vSoloId0 = 561 325 0
+vSoloId1 = 561 357 0
+vSoloWin0 = 600 316 0
+vSoloLost0 = 622 316 0
+vSoloWin1 = 600 348 0
+vSoloLost1 = 622 348 0
+vTeamId0 = 561 325 0
+vTeamId1 = 561 357 0
+vTeamWin0 = 600 316 0
+vTeamLost0 = 622 316 0
+vTeamWin1 = 600 348 0
+vTeamLost1 = 622 348 0
+vLeftTime = 218 465 0
+vHP = 120 465 0
+vAvatar = 16 396 0
+vAvatarBack = 42 436 0
+sAvatarBackSolo = groom_team_one.dds
+sAvatarBackRed = groom_team_red.dds
+sAvatarBackBlue = groom_team_blue.dds
+
+[SCORE]
+sTex = score_number.dds
+vPos0 = 554 383 0
+vPos1 = 576 383 0
+vPos2 = 590 383 0
+vPos3 = 616 383 0
+vPos4 = 630 383 0

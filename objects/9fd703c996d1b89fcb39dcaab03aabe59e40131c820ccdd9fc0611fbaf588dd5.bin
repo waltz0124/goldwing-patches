@@ -1,0 +1,42 @@
+[ATTR]
+nSizeX =256
+nSizeY =256
+szTexName = ui_medalplay.dds
+nPosX = 84
+nPosY = 70
+nSlideTime = 1000
+nShowTime = 6000
+nIdNameOffX = -45
+nIdNameOffY = 50
+nLevelOffX = -62
+nLevelOffY = 55
+nWinLostOffX = 66 
+nWinLostOffY = 23
+nWinLostOffX = 50
+nWinLostOffY = 23
+nFlyTimeOffX = 66
+nFlyTimeOffY = 38
+nReasonOffX = -51
+nReasonOffY = -55
+nAvatarOffX = -79
+nAvatarOffY = -40
+nBestShowTerm = 40000
+nWorstShowTerm = 40000
+nRecordStartTime = 6000
+
+[MEDAL]
+nMedalNameOffX = 25
+nMedalNameOffY = 0
+vPos = -18.5 15.5 38
+vScale = 1.7 1.7 1.7
+vRotVelY = 0.05
+sMedal0 = medal_box_100.bne
+sMedal1 = medal_box_500.bne
+sMedal2 = medal_box_1k.bne
+sMedal3 = medal_box_3k.bne
+sMedal4 = medal_box_5k.bne
+sMedal5 = medal_box_10k.bne
+sMedal6 = medal_box_30k.bne
+sMedal7 = medal_box_50k.bne
+sMedal8 = medal_box_80k.bne
+sMedal9 = medal_box_100k.bne

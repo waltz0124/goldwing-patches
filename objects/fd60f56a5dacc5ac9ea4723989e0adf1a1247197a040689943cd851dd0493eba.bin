@@ -1,0 +1,9 @@
+[ATTR]
+sLightTexName = smoke1.BMP
+sDarkTexName = smoke1.BMP
+fScaleFact = 0.0015
+fMaxScaleFact = 10
+fLightAlphaFact = 0.0007
+fDarkAlphaFact = 0.000005 
+fWidth = 2
+fHeight = 2

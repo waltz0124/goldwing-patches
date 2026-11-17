@@ -1,0 +1,23 @@
+[ATTR]
+vPos = 320 240 0
+
+sTex = result_ontheway.dds
+sTexLine = result_ontheway_line.dds
+
+sTexOk = ui_bt_ok.dds
+vPosOk = 0 96 0
+
+nPosTextX0 = -107
+nPosTextX1 = -30
+nPosTextX2 = -80
+nPosTextX3 = 26
+nPosTextX4 = 51
+nPosTextX5 = 91
+
+nFieldStartY = -111
+
+nLineStartY = -104
+
+nOffSetY = 22
+nOffSetX = 9
+

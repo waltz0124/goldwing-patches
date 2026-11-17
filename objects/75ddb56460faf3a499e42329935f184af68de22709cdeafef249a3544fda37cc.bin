@@ -1,0 +1,50 @@
+[GOLDWINGVER100]
+[ATTR]
+sTex0 = login_bg01.tga
+sTex1 = login_bg02.tga
+sTex2 = login_bg03.tga
+sTex3 = login_bg04.tga
+vPos0 = 160 120 0
+vPos1 = 480 120 0
+vPos2 = 160 360 0
+vPos3 = 480 360 0
+
+[LOGO]
+sTexLogo = logo_wing.tga
+vPosLogo = -1000 -1000 0
+
+[LOGIN]
+vPosId = 347 300 0
+vPosPassword = 347 337 0
+sTexLoginPanel = login_panel.dds
+vPosLoginPanel = 320 364 0
+
+[BUTTON]
+sTexNewId = login_bt_newid.dds
+sTexConnect = login_bt_connect.dds
+sTexCancel = login_bt_exit.dds
+vPosNewId = 241 371 0
+vPosConnect = 320 371 0
+vPosCancel = 398 371 0
+
+[WARN]
+vPosLblWarn = 320 410 0
+; >> k.baba 20040130 Localize
+vPosLblWarnJap = 320 425 0
+; << k.baba 20040130 Localize
+
+[URL]
+sUrlNewId = http://myinfo.hangame.com/registration/jreg_guide.htm
+sUrlFatalLoginFail = http://www.hangame.com/defaultext.asp?url=wlogin.asp?nxturl=http://game1.hangame.com/game/goldwing2/default.htm
+; >> k.baba 20040130 Localize
+sUrlNewIdJap = http://goldwing.hangame.co.jp/goldwing/default.htm
+sUrlFatalLoginFailJap = http://goldwing.hangame.co.jp/goldwing/default.htm
+; << k.baba 20040130 Localize
+
+[HANGAMELOGO]
+sTexLogo = login_mk01.dds
+vPosLogo = 70 26 0
+
+[GRADEMARK]
+sTexMark = login_mk02.dds
+vPosMark = 620 20 0

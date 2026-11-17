@@ -1,0 +1,40 @@
+[GOLDWINGVER100]
+[ATTR]
+vPos = 427 240 0
+
+sTexBack0 = statement_panel01.dds
+sTexBack1 = statement_panel02.dds
+vPosBack0 = -51 0 0
+;vPosBack1 = 126 0 0
+vPosBack1 = 205 0 0
+
+sTexOk = ui_bt_ok.dds
+vPosOk = -40 90 0
+
+sTexCancel = ui_bt_cancel.dds
+vPosCancel = 40 90 0
+
+vPosLblDesc = -146 -60 0
+vPosLblAccuser = -43 -34 0
+
+nWidthId = 8
+nHeightId = 2
+vPosEdtDefendant = 2 0 0
+
+nOffsetCkbX = -6
+nOffsetCkbY = 0
+
+vPosCkbReason0 = -36 32 0
+vPosCkbReason1 = 14 32 0
+vPosCkbReason2 = -36 51 0
+vPosCkbReason3 = 100 32 0
+
+vPosCkbReasonJap0 = -36 32 0
+vPosCkbReasonJap1 = 14 32 0
+vPosCkbReasonJap2 = -36 51 0
+vPosCkbReasonJap3 = 100 32 0
+
+vPosCkbReasonChn0 = -36 32 0
+vPosCkbReasonChn1 = 14 32 0
+vPosCkbReasonChn2 = -36 51 0
+vPosCkbReasonChn3 = 100 32 0

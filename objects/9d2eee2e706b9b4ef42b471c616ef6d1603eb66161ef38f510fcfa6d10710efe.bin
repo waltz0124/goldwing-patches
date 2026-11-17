@@ -1,0 +1,50 @@
+[GOLDWINGVER100]
+[ATTR]
+nWidthCol = 256
+nHeightCol = 196
+
+vPos = 427 240 0
+nWidthBack = 256
+nHeightBack = 256
+sTexBack = point_panel.dds
+vPosBack = 0 0 0
+
+nWidthPlus = 32
+nHeightPlus = 32
+sTexPlus = bt_point_up.dds
+vPosPlus = 70 24 0
+fColWidthPlus = 0.6875
+fColHeightPlus = 0.5
+
+nWidthMinus = 32
+nHeightMinus = 32
+sTexMinus = bt_point_down.dds
+vPosMinus = 98 24 0
+fColWidthMinus = 0.6875
+fColHeightMinus = 0.5
+
+nWidthCancel = 128
+nHeightCancel = 128
+sTexCancel = ui_bt_cancel.dds
+vPosCancel = 0 70 0
+fColWidthCancel = 0.578125
+fColHeightCancel = 0.1875
+
+nWidthFind = 64
+nHeightFind = 64
+sTexFind = bt_point01.dds
+vPosFind = 88 -5 0
+fColWidthFind = 0.65625
+fColHeightFind = 0.375
+
+nWidthPoint = 8
+nHeightPoint = 3
+vPosLblPoint = -36 19 0
+
+nWidthId = 8
+nHeightId = 2
+vPosEdtId = 10 -6 0
+
+nWidthWarn = 20
+nHeightWarn = 2
+vPosLblWarn = 0 -31 0

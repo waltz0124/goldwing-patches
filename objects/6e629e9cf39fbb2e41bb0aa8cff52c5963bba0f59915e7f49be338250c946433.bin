@@ -1,0 +1,13 @@
+[ATTR]
+nStartStage = 21
+sSndBtnClick = button_click.wav
+bUnitTest = false
+bDashBoard = false
+nVolBtnClick = 85
+nNoticeFontWidth = 19 
+nDefaultPlane = 32
+nDefaultGameType = 0
+nDefaultQuestType = 0
+bMatch = false
+;sServerIp = 221.148.17.9
+nServerPort = 2388

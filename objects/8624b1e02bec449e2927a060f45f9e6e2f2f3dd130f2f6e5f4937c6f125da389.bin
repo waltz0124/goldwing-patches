@@ -1,0 +1,121 @@
+[ATTR]
+
+[LSBPLAYER]
+nSizeX = 21
+nSizeY = 13
+nPosX = 457
+nPosY = 124
+
+[BTNCREATE]
+sImage = bt_make.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 410
+nPosY = 239
+
+[TXWINFO]
+nSizeX = 13
+nSizeY = 11
+nPosX = 510
+nPosY = 128
+
+[EDTCHAT]
+nSizeX = 16
+nPosX = 507
+nPosY = 373
+
+[BTNJOIN]
+sImage = bt_enter.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 410
+nPosY = 239
+
+[BTNEXIT]
+sImage = bt_cnexit.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 580
+nPosY = 239
+
+[WNDCREATEROOM]
+nSizeX = 18
+nSizeY = 12
+
+[CREATEROOM]
+nNameItem = 10
+s0 = ÅÍº¸°¡ 2ÇÁ·Î ºÎÁ·ÇÒ¶§
+s1 = ±Í½ÅÀâ´Â »ß¾àÀÌ
+s2 = Á¶·ùµ¶°¨ »ß¾àÀÌ »çÀı
+s3 = ³ªµµ ÇÑ¶§ º°ÀÌ¾ú´Ù
+s4 = ¹ø°³Åº ¼Õ´Ô°ú ¾î¸Ó´Ï
+s5 = °è±ŞÀå ¶¼°í ÇÑÆÇ ºÙÀÚ
+s6 = ÁØºñÇÏ½Ã°í ½î¼¼¿©~ 
+s7 = °ñµåÀ® ¾ç³ä Åë´ß
+s8 = ¿À´ÃÀº ³»°¡½ò²² 
+s9 = Àû±âÀÇ ÀÜÇØ¸¦ ³Ñ°í ³Ñ¾î
+
+; >> k.baba 20040130 Localize
+;sj0 = ‚Í‚â‚­—ˆ‚Ä‚Å‚·~
+;sj1 = ˆêƒQ[ƒ€‚µ‚Ü‚µ‚å‚¤B
+;sj2 = ‘‚­—ˆ‚È‚³‚¢‚æ~
+;sj3 = ‹ó‚Ì‰¤q‚Í—¡—¢‚ÅBB
+;sj4 = ¡“ú‚à”ò‚ñ‚ÅŒ©‚Ä~
+;sj5 = –Ê”’‚¢ƒQ[ƒ€!
+;sj6 = Šy‚µ‚¢ƒQ[ƒ€!
+;sj7 = ’N‚Å‚à—ˆ‚Ü‚·~
+;sj8 = ƒ}ƒi[ƒQ[ƒ€B
+;sj9 = ¡“ú‚à—Ç‚¢ˆê“ú~
+sj0 = Áñ°×¹æ              
+sj1 = ¾Æ¹«³ª      
+sj2 = ¾î¼­¿À¼¼¿ä        
+sj3 = °ñµåÀ®¹æ         
+sj4 = ÇÑ±¹¹æ    
+sj5 = Å×½ºÆ®¹æ
+sj6 = »ß¾àÀÌ¹æ        
+sj7 = °øÁßÀü    
+sj8 = ÇÑÆÇÇØ¿ä
+sj9 = Ãâ°İÁØºñ      
+; << k.baba 20040130 Localize
+
+[TXWCHAT]
+nSizeX = 23
+nSizeY = 11
+nPosX = 468
+nPosY = 306
+
+[BSWROOM]
+nSizeX = 18
+nSizeY = 100
+nPosX = 145
+nPosY = 210
+
+[ROOMPANEL]
+sPanelTex = room_panel.dds
+sNumberTex = room_number.dds
+nSelectTex = roompanel_select.dds
+nSelectSX = 340
+nSelectSY = 150
+nSelectX = -5
+nSelectY = 2
+nGapY = 70
+nRoomSX = 22
+nRoomSY = 5
+nPanelSX = 340
+nPanelSY = 70
+nNumberSX = 50
+nNumberSY = 40
+nStartY = -170
+nLeft = 40
+nTop = 30
+nRight = 120
+nBottom = 70
+nTextStartX = -80
+nTextStartY = -26
+nTextGapY = 16
+nPlayerNoOffX = 130
+nAbtUpX = 330
+nAbtUpY = 224
+nAbtDownX = 330
+nAbtDownY = 257
+

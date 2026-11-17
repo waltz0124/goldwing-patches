@@ -1,0 +1,139 @@
+[ATTR]
+bUseLog = true
+bLogFlushAlways = false
+bCanDeviceChange = true
+nTickPauseLimit = 200
+nTrackVal1 = 12
+nTrackVal2 = 1275
+nTrackVal3 = 0
+fUiTileEps = 0.005
+fCursorVel = 1
+nDoubleClickTime = 0
+nUiHelpX = 16
+nUiHelpY = 457
+
+[UI_CAPTIONBAR]
+nStartX = 0
+nStartY = 0
+nTileH = 16
+nTileV = 2
+nWidth = 1
+nHeight = 1
+
+[UI_WNDFRAME1]
+nStartX = 0
+nStartY = 2
+nTileH = 1
+nTileV = 1
+nWidth = 3
+nHeight = 3
+
+[UI_WNDFRAME2]
+nStartX = 3
+nStartY = 2
+nTileH = 1
+nTileV = 1
+nWidth = 3
+nHeight = 3
+
+[UI_EDIT]
+nStartX = 6
+nStartY = 2
+nTileH = 1
+nTileV = 1
+nWidth = 3
+nHeight = 3
+
+[UI_GROUPLINE]
+nStartX = 9
+nStartY = 2
+nTileH = 1
+nTileV = 1
+nWidth = 3
+nHeight = 3
+
+[UI_SCROLLV1]
+nStartX = 14
+nStartY = 8
+nTileH = 2
+nTileV = 2
+nWidth = 1
+nHeight = 1
+
+[UI_SCROLLV2]
+nStartX = 14
+nStartY = 10
+nTileH = 2
+nTileV = 2
+nWidth = 1
+nHeight = 2
+
+[UI_SCROLLH1]
+nStartX = 8
+nStartY = 14
+nTileH = 2
+nTileV = 2
+nWidth = 1
+nHeight = 1
+
+[UI_SCROLLH2]
+nStartX = 10
+nStartY = 14
+nTileH = 2
+nTileV = 2
+nWidth = 2
+nHeight = 1
+
+[UI_CHECKBOX]
+nStartX = 4
+nStartY = 5
+nTileH = 2
+nTileV = 2
+nWidth = 2
+nHeight = 1
+
+[UI_BAR]
+nStartX = 14
+nStartY = 5
+nTileH = 1
+nTileV = 1
+nWidth = 2
+nHeight = 1
+
+[UI_RADIOBTN]
+nStartX = 0
+nStartY = 5
+nTileH = 2
+nTileV = 2
+nWidth = 2
+nHeight = 1
+
+[UI_SLIDER1]
+nStartX = 9
+nStartY = 3
+nTileH = 2
+nTileV = 2
+nWidth = 3
+nHeight = 1
+
+[UI_SLIDER2]
+nStartX = 9
+nStartY = 5
+nTileH = 2
+nTileV = 2
+nWidth = 2
+nHeight = 1
+
+[MESSAGEBOX]
+sTex = ui_message.dds
+
+[IMAGEBTN]
+sTexOk = ui_bt_ok.dds
+sTexCancel = ui_bt_cancel.dds
+
+[UI_MODALBACK]
+sTex = modaluiback.dds
+
+[FADER]
+sTexFader = blank.bmp
+dwFaderDelay = 500

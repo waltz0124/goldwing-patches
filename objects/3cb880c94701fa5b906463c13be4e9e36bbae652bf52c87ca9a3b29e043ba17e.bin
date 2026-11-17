@@ -1,0 +1,47 @@
+[ATTR]
+nWndRankSX = 20
+nWndRankSY = 20
+nSprCurtainSX = 150
+nSprCurtainSY = 310
+vLightColor0 = 0.2 0 0 
+vLightColor1 = 0 0.2 0 
+vLightColor2 = 0.2 0 0.2 
+sLightTex = spotlight.jpg
+sBackTex = hof_back.dds
+nSprBackSX = 170
+nSprBackSY = 170
+nSprBackOffX = 320
+nSprBackOffY = 160
+fSprBackRot = 0.8
+sCurtainTex = curtain.jpg
+sRankDownPanel = rank_downpanel.dds
+nTextGapY = 30
+nFrmRankX = 80
+nFrmRankY = 101
+nBtnMyScoreX = 240
+nBtnMyScoreY = 433
+sBtnExit = bt_exit.dds
+nBtnExitX = 400
+nBtnExitY = 433
+nSprBannerSX = 640
+nSprBannerSY = 260
+nSprBannerX = 320
+nSprBannerY = -40
+nSprDownSX = 640
+nSprDownSY = 260
+nSprDownX = 320
+nSprDownY = 530
+sHofBannerTex = hof_banner.jpg
+sHofDownTex = rank_downpanel.jpg
+
+[WNDRANKFIND]
+nSizeX = 18
+nSizeY = 12
+nLabelX = 0
+nLabelY = -35
+nEdtIdX = 20
+nEdtIdY = -5
+nBtnOkX = -10
+nBtnOkY = 50
+nBtnCancelX = 75
+nBtnCancelY = 50

@@ -1,0 +1,12 @@
+[ATTR]
+sNumberTile = room_number.dds
+fRotDeg = -0.6
+nSprChanSX = 230
+nSprChanSY = 200
+nSprNumberSX = 60
+nSprNumberSY = 60
+sChanPanel = chan_panel.dds
+fNumberOffX = 130
+fNumberOffY = 2
+nPanelOffX = 320
+nPanelOffY = 130

@@ -1,0 +1,718 @@
+[GOLDWINGVER100]
+[ATTR]
+vPos = 427 240 0
+
+sTexBack0 = ui_option_01.dds
+sTexBack1 = ui_option_02.dds
+sTexBack2 = ui_option_03.dds
+sTexBack3 = ui_option_04.dds
+vPosBack0 = -117 -68 0
+;vPosBack1 = 127 -68 0
+;vPosBack2 = -117 121 0
+;vPosBack3 = 127 121 0
+vPosBack1 = 139 -68 0
+vPosBack2 = -117 188 0
+vPosBack3 = 139 188 0
+
+sTexOk = ui_bt_ok.dds
+vPosOk = -40 152 0
+
+sTexCancel = ui_bt_cancel.dds
+vPosCancel = 40 152 0
+
+vPosKeyboardOnly = -65 -124 0
+vPosBgm = 87 30 0
+vPosInvertMouse = 87 49 0
+vPosLeftMouse = 87 69 0
+;vPosSound = 87 49 0
+;vPosFullScreen = 87 69 0
+;vPosInvertMouse = 87 89 0
+;vPosLeftMouse = 87 109 0
+vPosInGameMessengerOn = 87 88 0
+vPosMMouseOn = 87 109 0
+;vPosMMouseBeepOn = 87 109 0
+nOffsetCkbX = -6
+nOffsetCkbY = 0
+
+
+vPosMouseSpeed = 149 -97 0
+vPosSoundVolume = 149 -21 0
+
+nWndSetWidth = 5
+nWndSetHeight = 2
+
+sTexSet = panel_select.dds
+
+vPosLblSet0 = -111 -103 0
+vPosLblSet1 = -111 -86 0
+vPosLblSet2 = -111 -69 0
+vPosLblSet3 = -111 -52 0
+vPosLblSet4 = -111 -35 0
+vPosLblSet5 = -111 -18 0
+vPosLblSet6 = -111 -1 0
+vPosLblSet7 = -111 16 0
+vPosLblSet8 = -111 33 0
+vPosLblSet9 = -111 50 0
+vPosLblSet10 = -111 67 0
+vPosLblSet11 = -111 84 0
+vPosLblSet12 = -111 101 0
+vPosLblSet13 = -111 118 0
+vPosLblSet14 = 35 -103 0
+vPosLblSet15 = 35 -86 0 
+vPosLblSet16 = 35 -69 0 
+vPosLblSet17 = 35 -52 0 
+vPosLblSet18 = 35 -35 0 
+vPosLblSet19 = 35 -18 0 
+vPosLblSet20 = 35 -1 0  
+vPosLblSet21 = 35 16 0  
+vPosLblSet22 = 35 33 0  
+vPosLblSet23 = 35 50 0  
+vPosLblSet24 = 35 67 0    
+vPosLblSet25 = 35 84 0    
+vPosLblSet26 = 35 101 0   
+
+vPosLblKey0 = -183 -103 0
+vPosLblKey1 = -183 -86 0
+vPosLblKey2 = -183 -69 0
+vPosLblKey3 = -183 -52 0
+vPosLblKey4 = -183 -35 0
+vPosLblKey5 = -183 -18 0
+vPosLblKey6 = -183 -1 0
+vPosLblKey7 = -183 16 0
+vPosLblKey8 = -183 33 0
+vPosLblKey9 = -183 50 0
+vPosLblKey10 = -183 67 0
+vPosLblKey11 = -183 84 0
+vPosLblKey12 = -183 101 0
+vPosLblKey13 = -183 118 0
+vPosLblKey14 = -38 -103 0
+vPosLblKey15 = -38 -86 0 
+vPosLblKey16 = -38 -69 0 
+vPosLblKey17 = -38 -52 0 
+vPosLblKey18 = -38 -35 0 
+vPosLblKey19 = -38 -18 0 
+vPosLblKey20 = -38 -1 0  
+vPosLblKey21 = -38 16 0  
+vPosLblKey22 = -38 33 0  
+vPosLblKey23 = -38 50 0  
+vPosLblKey24 = -38 67 0
+vPosLblKey25 = -38 84 0
+vPosLblKey26 = -38 101 0 
+
+[MOUSENAME]
+sMouseName0 = (M)Up
+sMouseName1 = (M)Down
+sMouseName2 = (M)Left
+sMouseName3 = (M)Right
+sMouseName4 = (M)L-Button
+sMouseName5 = (M)R-Button
+
+[KEYNAME]
+sKeyName0 = ---
+sKeyName1 = Esc
+sKeyName2 = 1
+sKeyName3 = 2
+sKeyName4 = 3
+sKeyName5 = 4
+sKeyName6 = 5
+sKeyName7 = 6
+sKeyName8 = 7
+sKeyName9 = 8
+sKeyName10 = 9
+sKeyName11 = 0
+sKeyName12 = -
+sKeyName13 = =
+sKeyName14 = BackSpace
+sKeyName15 = Tab
+sKeyName16 = Q
+sKeyName17 = W
+sKeyName18 = E
+sKeyName19 = R
+sKeyName20 = T
+sKeyName21 = Y
+sKeyName22 = U
+sKeyName23 = I
+sKeyName24 = O
+sKeyName25 = P
+sKeyName26 = [
+sKeyName27 = ]
+sKeyName28 = Enter
+sKeyName29 = Left Ctrl
+sKeyName30 = A
+sKeyName31 = S
+sKeyName32 = D
+sKeyName33 = F
+sKeyName34 = G
+sKeyName35 = H
+sKeyName36 = J
+sKeyName37 = K
+sKeyName38 = L
+sKeyName39 = ;
+sKeyName40 = '
+sKeyName41 = `
+sKeyName42 = Left Shift
+sKeyName43 = \
+sKeyName44 = Z
+sKeyName45 = X
+sKeyName46 = C
+sKeyName47 = V
+sKeyName48 = B
+sKeyName49 = N
+sKeyName50 = M
+sKeyName51 = ,
+sKeyName52 = .
+sKeyName53 = /
+sKeyName54 = Right Shift
+sKeyName55 = NumPad *
+sKeyName56 = Left Alt
+sKeyName57 = Space
+sKeyName58 = Caps Lock
+sKeyName59 = F1
+sKeyName60 = F2
+sKeyName61 = F3
+sKeyName62 = F4
+sKeyName63 = F5
+sKeyName64 = F6
+sKeyName65 = F7
+sKeyName66 = F8
+sKeyName67 = F9
+sKeyName68 = F10
+sKeyName69 = Num Lock
+sKeyName70 = Scroll Lock
+sKeyName71 = NumPad 7
+sKeyName72 = NumPad 8
+sKeyName73 = NumPad 9
+sKeyName74 = NumPad -
+sKeyName75 = NumPad 4
+sKeyName76 = NumPad 5
+sKeyName77 = NumPad 6
+sKeyName78 = NumPad +
+sKeyName79 = NumPad 1
+sKeyName80 = NumPad 2
+sKeyName81 = NumPad 3
+sKeyName82 = NumPad 0
+sKeyName83 = NumPad .
+sKeyName84 = F11
+sKeyName85 = F12
+
+sKeyName86 = ---
+sKeyName87 = ---
+sKeyName88 = ---
+sKeyName89 = ---
+sKeyName90 = ---
+sKeyName91 = ---
+sKeyName92 = ---
+sKeyName93 = ---
+sKeyName94 = ---
+sKeyName95 = ---
+sKeyName96 = ---
+sKeyName97 = ---
+sKeyName98 = ---
+sKeyName99 = ---
+
+sKeyName100 = F13
+sKeyName101 = F14
+sKeyName102 = F15
+
+sKeyName103 = ---
+sKeyName104 = ---
+sKeyName105 = ---
+sKeyName106 = ---
+sKeyName107 = ---
+sKeyName108 = ---
+sKeyName109 = ---
+sKeyName110 = ---
+sKeyName111 = ---
+
+sKeyName112 = KANA
+
+sKeyName113 = ---
+sKeyName114 = ---
+sKeyName115 = ---
+sKeyName116 = ---
+sKeyName117 = ---
+sKeyName118 = ---
+sKeyName119 = ---
+sKeyName120 = ---
+
+sKeyName121 = CONVERT
+
+sKeyName122 = ---
+
+sKeyName123 = NOCONVERT
+
+sKeyName124 = ---
+
+sKeyName125 = YEN
+
+sKeyName126 = ---
+sKeyName127 = ---
+sKeyName128 = ---
+sKeyName129 = ---
+sKeyName130 = ---
+sKeyName131 = ---
+sKeyName132 = ---
+sKeyName133 = ---
+sKeyName134 = ---
+sKeyName135 = ---
+sKeyName136 = ---
+sKeyName137 = ---
+sKeyName138 = ---
+sKeyName139 = ---
+sKeyName140 = ---
+
+sKeyName141 = NUMPADEQUALS
+
+sKeyName142 = ---
+sKeyName143 = ---
+
+sKeyName144 = CIRCUMFLEX
+sKeyName145 = AT
+sKeyName146 = COLON
+sKeyName147 = UNDERLINE
+sKeyName148 = KANJI
+sKeyName149 = STOP
+sKeyName150 = AX
+sKeyName151 = UNLABELED
+
+sKeyName152 = ---
+sKeyName153 = ---
+sKeyName154 = ---
+sKeyName155 = ---
+
+sKeyName156 = NumPad Enter
+sKeyName157 = Right Ctrl
+
+sKeyName158 = ---
+sKeyName159 = ---
+sKeyName160 = ---
+sKeyName161 = ---
+sKeyName162 = ---
+sKeyName163 = ---
+sKeyName164 = ---
+sKeyName165 = ---
+sKeyName166 = ---
+sKeyName167 = ---
+sKeyName168 = ---
+sKeyName169 = ---
+sKeyName170 = ---
+sKeyName171 = ---
+sKeyName172 = ---
+sKeyName173 = ---
+sKeyName174 = ---
+sKeyName175 = ---
+sKeyName176 = ---
+sKeyName177 = ---
+sKeyName178 = ---
+
+sKeyName179 = NUMPADCOMMA
+
+sKeyName180 = ---
+
+sKeyName181 = NumPad /
+
+sKeyName182 = ---
+
+sKeyName183 = Sys Rq
+sKeyName184 = Right Alt
+
+sKeyName185 = ---
+sKeyName186 = ---
+sKeyName187 = ---
+sKeyName188 = ---
+sKeyName189 = ---
+sKeyName190 = ---
+sKeyName191 = ---
+sKeyName192 = ---
+sKeyName193 = ---
+sKeyName194 = ---
+sKeyName195 = ---
+sKeyName196 = ---
+
+sKeyName197 = Pause
+
+sKeyName198 = ---
+
+sKeyName199 = Home
+sKeyName200 = Up
+sKeyName201 = Page Up
+
+sKeyName202 = ---
+
+sKeyName203 = Left
+
+sKeyName204 = ---
+
+sKeyName205 = Right
+
+sKeyName206 = ---
+
+sKeyName207 = End
+sKeyName208 = Down
+sKeyName209 = Page Down
+sKeyName210 = Insert
+sKeyName211 = Delete
+
+sKeyName212 = ---
+sKeyName213 = ---
+sKeyName214 = ---
+sKeyName215 = ---
+sKeyName216 = ---
+sKeyName217 = ---
+sKeyName218 = ---
+
+sKeyName219 = Left Window
+sKeyName220 = Right Window
+sKeyName221 = APPS
+sKeyName222 = POWER
+sKeyName223 = SLEEP
+
+sKeyName224 = ---
+sKeyName225 = ---
+sKeyName226 = ---
+sKeyName227 = ---
+sKeyName228 = ---
+sKeyName229 = ---
+sKeyName230 = ---
+sKeyName231 = ---
+sKeyName232 = ---
+sKeyName233 = ---
+sKeyName234 = ---
+sKeyName235 = ---
+sKeyName236 = ---
+sKeyName237 = ---
+sKeyName238 = ---
+sKeyName239 = ---
+sKeyName240 = ---
+sKeyName241 = ---
+sKeyName242 = ---
+sKeyName243 = ---
+sKeyName244 = ---
+sKeyName245 = ---
+sKeyName246 = ---
+sKeyName247 = ---
+sKeyName248 = ---
+sKeyName249 = ---
+sKeyName250 = ---
+sKeyName251 = ---
+sKeyName252 = ---
+sKeyName253 = ---
+sKeyName254 = ---
+sKeyName255 = ---
+
+[MOUSENAMEJAP]
+sMouseName0 = (M)Up
+sMouseName1 = (M)Down
+sMouseName2 = (M)Left
+sMouseName3 = (M)Right
+; >> k.baba 20040130 Localize
+;sMouseName4 = (M)L-Button
+;sMouseName5 = (M)R-Button
+sMouseName4 = (M)ñ§¥û¦ñ¥½¦ð
+sMouseName5 = (M)éÓ¥û¦ñ¥½¦ð
+; << k.baba 20040130 Localize
+
+[KEYNAMEJAP]
+sKeyName0 = ---
+sKeyName1 = Esc
+sKeyName2 = 1
+sKeyName3 = 2
+sKeyName4 = 3
+sKeyName5 = 4
+sKeyName6 = 5
+sKeyName7 = 6
+sKeyName8 = 7
+sKeyName9 = 8
+sKeyName10 = 9
+sKeyName11 = 0
+sKeyName12 = -
+sKeyName13 = =
+sKeyName14 = BackSpace
+sKeyName15 = Tab
+sKeyName16 = Q
+sKeyName17 = W
+sKeyName18 = E
+sKeyName19 = R
+sKeyName20 = T
+sKeyName21 = Y
+sKeyName22 = U
+sKeyName23 = I
+sKeyName24 = O
+sKeyName25 = P
+sKeyName26 = [
+sKeyName27 = ]
+sKeyName28 = Enter
+sKeyName29 = Left Ctrl
+sKeyName30 = A
+sKeyName31 = S
+sKeyName32 = D
+sKeyName33 = F
+sKeyName34 = G
+sKeyName35 = H
+sKeyName36 = J
+sKeyName37 = K
+sKeyName38 = L
+sKeyName39 = ;
+sKeyName40 = '
+sKeyName41 = `
+; >> k.baba 20040130 Localize
+;sKeyName42 = Left Shift
+sKeyName42 = ñ§«·«Õ«È
+; << k.baba 20040130 Localize
+sKeyName43 = \
+sKeyName44 = Z
+sKeyName45 = X
+sKeyName46 = C
+sKeyName47 = V
+sKeyName48 = B
+sKeyName49 = N
+sKeyName50 = M
+sKeyName51 = ,
+sKeyName52 = .
+sKeyName53 = /
+; >> k.baba 20040130 Localize
+;sKeyName54 = Right Shift
+sKeyName54 = éÓ«·«Õ«È
+; << k.baba 20040130 Localize
+sKeyName55 = NumPad *
+sKeyName56 = Left Alt
+sKeyName57 = Space
+sKeyName58 = Caps Lock
+sKeyName59 = F1
+sKeyName60 = F2
+sKeyName61 = F3
+sKeyName62 = F4
+sKeyName63 = F5
+sKeyName64 = F6
+sKeyName65 = F7
+sKeyName66 = F8
+sKeyName67 = F9
+sKeyName68 = F10
+sKeyName69 = Num Lock
+; >> k.baba 20040130 Localize
+;sKeyName70 = Scroll Lock
+sKeyName70 = ¥º¥«¦î¢÷¦ì¦î¢ö¥«
+; << k.baba 20040130 Localize
+sKeyName71 = NumPad 7
+sKeyName72 = NumPad 8
+sKeyName73 = NumPad 9
+sKeyName74 = NumPad -
+sKeyName75 = NumPad 4
+sKeyName76 = NumPad 5
+sKeyName77 = NumPad 6
+sKeyName78 = NumPad +
+sKeyName79 = NumPad 1
+sKeyName80 = NumPad 2
+sKeyName81 = NumPad 3
+sKeyName82 = NumPad 0
+sKeyName83 = NumPad .
+sKeyName84 = F11
+sKeyName85 = F12
+
+sKeyName86 = ---
+sKeyName87 = ---
+sKeyName88 = ---
+sKeyName89 = ---
+sKeyName90 = ---
+sKeyName91 = ---
+sKeyName92 = ---
+sKeyName93 = ---
+sKeyName94 = ---
+sKeyName95 = ---
+sKeyName96 = ---
+sKeyName97 = ---
+sKeyName98 = ---
+sKeyName99 = ---
+
+sKeyName100 = F13
+sKeyName101 = F14
+sKeyName102 = F15
+
+sKeyName103 = ---
+sKeyName104 = ---
+sKeyName105 = ---
+sKeyName106 = ---
+sKeyName107 = ---
+sKeyName108 = ---
+sKeyName109 = ---
+sKeyName110 = ---
+sKeyName111 = ---
+
+sKeyName112 = KANA
+
+sKeyName113 = ---
+sKeyName114 = ---
+sKeyName115 = ---
+sKeyName116 = ---
+sKeyName117 = ---
+sKeyName118 = ---
+sKeyName119 = ---
+sKeyName120 = ---
+
+sKeyName121 = CONVERT
+
+sKeyName122 = ---
+
+sKeyName123 = NOCONVERT
+
+sKeyName124 = ---
+
+sKeyName125 = YEN
+
+sKeyName126 = ---
+sKeyName127 = ---
+sKeyName128 = ---
+sKeyName129 = ---
+sKeyName130 = ---
+sKeyName131 = ---
+sKeyName132 = ---
+sKeyName133 = ---
+sKeyName134 = ---
+sKeyName135 = ---
+sKeyName136 = ---
+sKeyName137 = ---
+sKeyName138 = ---
+sKeyName139 = ---
+sKeyName140 = ---
+
+sKeyName141 = NUMPADEQUALS
+
+sKeyName142 = ---
+sKeyName143 = ---
+
+sKeyName144 = CIRCUMFLEX
+sKeyName145 = AT
+sKeyName146 = COLON
+sKeyName147 = UNDERLINE
+sKeyName148 = KANJI
+sKeyName149 = STOP
+sKeyName150 = AX
+sKeyName151 = UNLABELED
+
+sKeyName152 = ---
+sKeyName153 = ---
+sKeyName154 = ---
+sKeyName155 = ---
+
+; >> k.baba 20040130 Localize
+;sKeyName156 = NumPad Enter
+sKeyName156 = Enter ¥À¦ð¢þ¢÷
+; << k.baba 20040130 Localize
+sKeyName157 = Right Ctrl
+
+sKeyName158 = ---
+sKeyName159 = ---
+sKeyName160 = ---
+sKeyName161 = ---
+sKeyName162 = ---
+sKeyName163 = ---
+sKeyName164 = ---
+sKeyName165 = ---
+sKeyName166 = ---
+sKeyName167 = ---
+sKeyName168 = ---
+sKeyName169 = ---
+sKeyName170 = ---
+sKeyName171 = ---
+sKeyName172 = ---
+sKeyName173 = ---
+sKeyName174 = ---
+sKeyName175 = ---
+sKeyName176 = ---
+sKeyName177 = ---
+sKeyName178 = ---
+
+sKeyName179 = NUMPADCOMMA
+
+sKeyName180 = ---
+
+sKeyName181 = NumPad /
+
+sKeyName182 = ---
+
+sKeyName183 = Sys Rq
+sKeyName184 = Right Alt
+
+sKeyName185 = ---
+sKeyName186 = ---
+sKeyName187 = ---
+sKeyName188 = ---
+sKeyName189 = ---
+sKeyName190 = ---
+sKeyName191 = ---
+sKeyName192 = ---
+sKeyName193 = ---
+sKeyName194 = ---
+sKeyName195 = ---
+sKeyName196 = ---
+
+sKeyName197 = Pause
+
+sKeyName198 = ---
+
+sKeyName199 = Home
+sKeyName200 = Up
+sKeyName201 = Page Up
+
+sKeyName202 = ---
+
+sKeyName203 = Left
+
+sKeyName204 = ---
+
+sKeyName205 = Right
+
+sKeyName206 = ---
+
+sKeyName207 = End
+sKeyName208 = Down
+sKeyName209 = Page Down
+sKeyName210 = Insert
+sKeyName211 = Delete
+
+sKeyName212 = ---
+sKeyName213 = ---
+sKeyName214 = ---
+sKeyName215 = ---
+sKeyName216 = ---
+sKeyName217 = ---
+sKeyName218 = ---
+
+sKeyName219 = Left Window
+sKeyName220 = Right Window
+sKeyName221 = APPS
+sKeyName222 = POWER
+sKeyName223 = SLEEP
+
+sKeyName224 = ---
+sKeyName225 = ---
+sKeyName226 = ---
+sKeyName227 = ---
+sKeyName228 = ---
+sKeyName229 = ---
+sKeyName230 = ---
+sKeyName231 = ---
+sKeyName232 = ---
+sKeyName233 = ---
+sKeyName234 = ---
+sKeyName235 = ---
+sKeyName236 = ---
+sKeyName237 = ---
+sKeyName238 = ---
+sKeyName239 = ---
+sKeyName240 = ---
+sKeyName241 = ---
+sKeyName242 = ---
+sKeyName243 = ---
+sKeyName244 = ---
+sKeyName245 = ---
+sKeyName246 = ---
+sKeyName247 = ---
+sKeyName248 = ---
+sKeyName249 = ---
+sKeyName250 = ---
+sKeyName251 = ---
+sKeyName252 = ---
+sKeyName253 = ---
+sKeyName254 = ---
+sKeyName255 = ---

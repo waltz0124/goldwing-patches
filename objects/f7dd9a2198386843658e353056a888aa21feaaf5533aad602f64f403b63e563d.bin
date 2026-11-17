@@ -1,0 +1,84 @@
+[ATTR]
+nRbnSoloX = 70
+nRbnSoloY = 305
+nRbnATeamX = 150
+nRbnATeamY = 305
+nRbnBTeamX = 230
+nRbnBTeamY = 305
+nSpinSX = 4
+nSpinSY = 2
+nSpnTimeLimitX = 120
+nSpnTimeLimitY = 70
+nSpnFragLimitX = 120
+nSpnFragLimitY = 70
+nSpnDestroyBaseX = 160
+nSpnDestroyBaseY = 70
+nGameOptionX = 160
+nGameOptionY = 70
+sTilGameType = gametype.dds
+nSprGameTypeSX = 400
+nSprGameTypeSY = 80
+nSprGameTypeX = 220
+nSprGameTypeY = 50
+nDefaultTimeLimit = 7
+nDefaultFragLimit = 7
+nTxwChatSX = 16
+nTxwChatSY = 15
+nTxwChatX = 472
+nTxwChatY = 220
+nTxwInfoSX = 17 
+nTxwInfoSY = 6
+nTxwInfoX = 480
+nTxwInfoY = 65
+nLsbPlayerX = 170
+nLsbPlayerY = 200
+nBtnExpelX = 100
+nBtnExpelY = 340
+nBtnNomoreX = 200
+nBtnNomoreY = 340
+nWndExpelSX = 18
+nWndExpelSY = 23
+nSprHostSX = 20
+nSprHostSy = 20
+sSprHostTex = host_icon.dds
+
+
+[BTNREADY]
+sImage = bt_ready.dds
+nSizeX = 120
+nSizeY = 120
+nPosX = 90
+nPosY = 430
+
+[BTNEXIT]
+sImage = bt_exit.dds
+nSizeX = 120
+nSizeY = 120
+nPosX = 560
+nPosY = 430
+
+[BTNSTAGE]
+sImage = bt_stage.dds
+nSizeX = 120
+nSizeY = 120
+nPosX = 410
+nPosY = 430
+
+[BTNGAMETYPE]
+sImage = bt_type.dds
+nSizeX = 120
+nSizeY = 120
+nPosX = 250
+nPosY = 430
+
+[TXWCHAT]
+nSizeX = 23
+nSizeY = 10
+nPosX = 175
+nPosY = 380
+
+[BANNER]
+; 3단배너만 사용
+dwDelay0 = 3000
+dwDelay1 = 2500
+dwDelay2 = 3000

@@ -1,0 +1,147 @@
+[GOLDWINGVER100]
+[ATTR]
+vPos = 0 0 0
+
+sTexBack0 = ui_result_back01.jpg
+sTexBack1 = ui_result_back02.jpg
+sTexBack2 = ui_result_back03.jpg
+sTexBack3 = ui_result_back04.jpg
+vPosBack0 = 160 120 0
+vPosBack1 = 480 120 0
+vPosBack2 = 160 360 0
+vPosBack3 = 480 360 0
+
+vPosLblRank = 71 24 0
+vPosLblCharacter = 128 24 0
+vPosLblLevelIdGuild = 210 24 0
+vPosLblWinLost = 320 24 0
+vPosLblGameMoney = 395 24 0
+vPosLblExp = 482 24 0
+vPosLblGuildMark = 552 24 0
+
+sTexExit = famehall_bt_exit.jpg
+vPosExit = 617 457 0
+
+sTexPanel = ui_result01.tga
+
+sTexEtc = ui_result02.tga
+
+sTex0 = thumb_piyagi.dds
+sTex1 = thumb_nieuport.dds
+sTex2 = thumb_fokker.dds
+sTex3 = thumb_albatross.dds
+sTex4 = thumb_brisfit.dds
+sTex5 = thumb_fba.dds
+sTex6 = thumb_bfemil.dds
+sTex7 = thumb_mustang.dds
+sTex8 = thumb_spitfire.dds
+sTex9 = thumb_zero.dds
+sTex10 = thumb_lavo.dds
+sTex11 = thumb_macchi.dds
+sTex12 = thumb_corsair.dds
+sTex13 = thumb_stuka.dds
+sTex14 = thumb_schwalbe.dds
+sTex15 = thumb_shinden.dds
+sTex16 = thumb_lightning.dds
+sTex17 = thumb_shturmovik.dds
+sTex18 = thumb_faggot.dds
+sTex19 = thumb_saber.dds
+sTex20 = thumb_fishbad.dds
+sTex21 = thumb_phantom.dds
+sTex22 = thumb_kfir.dds
+sTex23 = thumb_tiger.dds
+sTex24 = thumb_tomcat.dds
+sTex25 = thumb_eagle.dds
+sTex26 = thumb_fulcrum.dds
+sTex27 = thumb_falcon.dds
+sTex28 = thumb_nighthawk.dds
+sTex29 = thumb_raptor.dds
+sTex30 = thumb_harrier.dds
+sTex31 = thumb_typhoon.dds
+sTex32 = thumb_berkt.dds
+sTex33 = thumb_hornet.dds
+sTex34 = thumb_rafale.dds
+sTex35 = thumb_thunderbolt.dds
+sTex36 = thumb_goldeneagle.dds
+sTex37 = thumb_jsf.dds
+sTex38 = thumb_jian10.dds
+sTex39 = thumb_japf2.dds
+
+[RESULT]
+sTexQuestComplete = quest_complete.dds
+sTexQuestFail = quest_fail.dds
+sTexTeamBlueWin = team_blue_win.dds
+sTexTeamRedWin = team_red_win.dds
+sTexTeamDraw = team_draw.dds
+vPosResult = 320 212 0
+dwPopGameResult = 500
+dwHideGameResult = 2000
+
+[RESULTENTRY]
+vPosFrame = 320 65 0
+nOffsetY = 55
+
+vPosLeftPanel = -216 0 0
+vPosMidPanel = -30 0 0
+vPosRightPanel = 186 0 0
+
+vPosRank = -249 0 0
+vPosPlane = -191 4 0
+vPosLevel = -139 -11 0
+vPosLblId = -120 -19 0
+vPosLblGuild = -120 6 0
+vPosLblGuildName = -138 12 0
+vPosLblGaugeName = -15 12 0
+
+vPosWin1 = -32 -9 0
+vPosWin0 = -19 -9 0
+
+vPosLost1 = 8 -9 0
+vPosLost0 = 21 -9 0
+
+vPosGameMoney7 = 40 -9 0
+vPosGameMoney6 = 50 -9 0
+vPosGameMoney5 = 60 -9 0
+vPosGameMoney4 = 70 -9 0
+vPosGameMoney3 = 80 -9 0
+vPosGameMoney2 = 90 -9 0
+vPosGameMoney1 = 100 -9 0
+vPosGameMoney0 = 110 -9 0
+
+;vPosGameMoney5 = 42 -9 0
+;vPosGameMoney4 = 55 -9 0
+;vPosGameMoney3 = 68 -9 0
+;vPosGameMoney2 = 81 -9 0
+;vPosGameMoney1 = 94 -9 0
+;vPosGameMoney0 = 107 -9 0
+
+vPosExp5 = 129 -9 0
+vPosExp4 = 142 -9 0
+vPosExp3 = 155 -9 0
+vPosExp2 = 168 -9 0
+vPosExp1 = 181 -9 0
+vPosExp0 = 194 -9 0
+
+vPosExpBar = 82 12 0
+nExpBarStartX = -36
+nExpBarStartY = 12
+nExpBarWidth = 238
+nExpBarHeight = 20
+
+vPosLevelChange = 82 12 0
+
+vPosGuildMark = 232 -1 0
+
+[SURVIVAL]
+vPosFrame = 30 0 0
+vPosBack0 = 126 360 0
+vPosBack1 = 198 360 0
+vPosBack2 = 268 360 0
+vPosBack3 = 338 360 0
+vPosBack4 = 434 360 0
+sTexBack = ui_result_s01.tga
+vPosText = 232 364 0
+sTexText = ui_result_s02.tga
+sTexCheck = ui_result_s03.tga
+vPosCheck = 114 280 0
+nOffsetCheck = 24

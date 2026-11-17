@@ -1,0 +1,54 @@
+[GOLDWINGVER100]
+[ATTR]
+vPos = 427 240 0
+
+sTexBack0 = messenger_panel01.dds
+sTexBack1 = messenger_panel02.dds
+sTexBack2 = messenger_panel03.dds
+sTexBack3 = messenger_panel04.dds
+vPosBack0 = -59 -104 0
+vPosBack1 = -59 152 0
+;vPosBack2 = 133 -104 0
+;vPosBack3 = 133 152 0
+vPosBack2 = 197 -104 0
+vPosBack3 = 197 152 0
+
+sTexExit = ui_bt_exit.dds
+vPosExit = 1 204 0
+
+sTexSearch = messenger_bt_chase.dds
+vPosSearch = 117 -145 0
+sTexAddFriend = messenger_bt_friend_add.dds
+sTexDelFriend = messenger_bt_friend_del.dds
+sTexAddReject = messenger_bt_rebel_add.dds
+sTexDelReject = messenger_bt_rebel_del.dds
+vPosAddDel0 = 117 -107 0
+vPosAddDel1 = 117 -69 0
+sTexRefresh = messenger_bt_refresh.dds
+vPosRefresh = 117 -33 0
+sTexSend = messenger_bt_enter.dds
+vPosSend = 140 172 0
+
+sTexPrev = ui_bt_prev.tga
+vPosPrev = -20 -200 0
+sTexNext = ui_bt_next.tga
+vPosNext = 53 -200 0
+
+nWidthSelectId = 8
+vPosSelectId = 124 -178 0
+nWidthTargetId = 8
+vPosTargetId = -68 9 0
+nWidthChat = 20
+vPosChat = -16 170 0
+
+nWidthListBox = 14
+nHeightListBox = 13
+vPosListBox = -51 -100 0
+nListBoxItemVGap = 8
+
+vPosListBoxName = 17 -200 0
+vPosLocation = 10 4 0
+
+nWidthChatWnd = 22
+nHeightChatWnd = 10
+vPosChatWnd = 0 90 0

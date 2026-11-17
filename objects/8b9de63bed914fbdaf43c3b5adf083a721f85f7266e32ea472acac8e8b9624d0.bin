@@ -1,0 +1,35 @@
+[ATTR]
+vPos = 0 0 0
+vRound = 289 38 0
+vRoundNum0 = 374 38 0
+vRoundNum1 = 402 38 0
+vWinner = 320 109 0
+vWinCond = 320 189 0
+vRed = 104 252 0
+vBlue = 536 252 0
+vRedMemberBack = 104 329 0
+vBlueMemberBack = 536 329 0
+vRedScore0 = 216 253 0
+vRedScore1 = 272 253 0
+vBlueScore0 = 369 253 0
+vBlueScore1 = 425 253 0
+vColon = 320 253 0
+vNextRound = 515 446 0
+vTime = 586 446 0
+
+sTexRound = team_result_01.dds
+sTexTeam = team_result_02.dds
+sTexCond = team_result_03.dds
+sTexScore = team_result_04.dds
+sTexTime = digit_number.dds
+
+dwShowTime = 5000
+
+[MEMBERRED]
+vPos = 103 295 0
+nVGap = 16
+
+[MEMBERBLUE]
+vPos = 536 295 0
+nVGap = 16
+

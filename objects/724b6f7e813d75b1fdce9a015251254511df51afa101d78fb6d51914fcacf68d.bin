@@ -1,0 +1,16 @@
+[ATTR]
+fDefSize = 0.18
+fDefAlpha = 0.25
+fSizeRate = 0.008
+fAlphaRate = 0.004
+fMinSize = 0.2
+fMaxSizeX = 0.4
+fMaxSizeZ = 0.8
+fSizeXRate = 0.08
+fSizeZRate = 0.04
+fPvtRight = 6
+fPvtFront = 10
+fPosYRate0 = 0.4
+fPosYRate1 = 0.92
+fMinHeight = 0.1
+fAheadDist = 15

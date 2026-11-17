@@ -1,0 +1,44 @@
+[ATTR]
+
+[BTNKEYBOARD]
+sImage = bt_make.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 80
+nPosY = 420
+
+[BTNMOUSE]
+sImage = bt_make.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 200
+nPosY = 420
+
+[BTNOK]
+sImage = bt_make.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 320
+nPosY = 420
+
+[BTNSOUND]
+sImage = bt_make.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 440
+nPosY = 420
+
+[BTNETC]
+sImage = bt_make.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 560
+nPosY = 420
+
+[BACKPANEL]
+sImage = config_panel.dds
+nSizeX = 210
+nSizeY = 130
+nOffsetX = 320
+nOffsetY = 140
+fRot = -0.6

@@ -1,0 +1,9 @@
+[ATTR]
+sShipMesh = s_boss.ase
+nShield = 1000
+fShieldEps = 100
+fPropRotEps = 0.05
+fTerrColEps = 10
+vLeftPropOff = 3 3 0
+vRightPropOff = -3 3 0
+sLeftProp = 

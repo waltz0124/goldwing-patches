@@ -1,0 +1,32 @@
+[ATTR]
+vCamDefault = 0 28 -80
+
+[CHATWINDOW]
+nWndWidth = 23
+nWndHeight = 7
+nEdtWidth = 23
+vWndPos1 = 455 410 0
+vEdtPos1 = 455 465 0
+vWndPos2 = 328 410 0
+vEdtPos2 = 328 465 0
+
+[COMPASS]
+sTexName = compass1.dds
+sLidTexName = compass1_lid.dds
+vSize = 120 120
+vPos = 550 85 0
+
+[RESULTUI]
+nLsbResultX = 320
+nLsbResultY = 222
+nBtnRetryX = 250
+nBtnRetryY = 335
+nBtnExitX = 413
+nBtnExitY = 335
+nBtnGameRoomX = 320
+nBtnGameRoomY = 335
+nLsbLoadStateSX = 16
+nLsbLoadStateSY = 12
+nLsbLoadStateX = 315
+nLsbLoadStateY = 222
+

@@ -1,0 +1,52 @@
+[GOLDWINGVER100]
+[ATTR]
+vPos = 427 240 0
+
+sTexBack0 = ui_createroom_01.dds
+sTexBack1 = ui_createroom_02.dds
+vPosBack0 = -39 0 0
+vPosBack1 = 216 0 0
+
+sTexOk = ui_bt_ok.dds
+vPosOk = -39 84 0
+
+sTexCancel = ui_bt_cancel.dds
+vPosCancel = 41 84 0
+
+nWidthName = 12
+nHeightName = 3
+nWidthNameJap = 10
+nHeightNameJap = 3
+
+vPosLabel = 120 -40 0
+;vPosName = 25 -40 0
+vPosName = 33 -40 0
+vPosLblName = -45 -45 0
+
+sTexNum = groom_type_number.dds
+vPosNum = -99 28 0
+
+sTexType0 = ui_icon_solo.tga
+sTexType1 = ui_icon_team.tga
+vPosType = 1 28 0
+
+sTexMode0 = ui_icon_item.tga
+sTexMode1 = ui_icon_noitem.tga
+sTexMode2 = ui_icon_autoitem.tga
+vPosMode = 101 28 0
+
+sTexPrev = ui_bt_prev.tga
+sTexNext = ui_bt_next.tga
+vPosPrevNum = -134 27 0
+vPosPrevType = -34 27 0
+vPosPrevMode = 66 27 0
+vPosNextNum = -65 27 0
+vPosNextType = 35 27 0
+vPosNextMode = 135 27 0
+
+; 0 - 04, 1 - 06, 2 - 08
+nDefaultNum = 2
+; 0 - SOLO, 1 - TEAM
+nDefaultType = 1
+; 0 - ITEM, 1 - NOITEM, 2 - AUTOITEM
+nDefaultMode = 2

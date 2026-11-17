@@ -1,0 +1,61 @@
+[ATTR]
+
+[BTNSELECT]
+sBtnImage = bt_channel.dds
+nSizeX = 120
+nSizeY = 110
+nPosX = 90
+nPosY = 420
+
+[BTNHANGAR]
+sBtnImage = bt_deck.dds
+nSizeX = 120
+nSizeY = 110
+nPosX = 250
+nPosY = 420
+
+[BTNRANK]
+sBtnImage = bt_rank.dds
+nSizeX = 120
+nSizeY = 110
+nPosX = 410
+nPosY = 420
+
+[BTNEXIT]
+sBtnImage = bt_exit.dds
+nSizeX = 120
+nSizeY = 110
+nPosX = 560
+nPosY = 420
+
+[LBLMESSAGE]
+nPosX = 170
+nPosY = 380
+
+[LSBCHANNEL]
+nSizeX = 14
+nSizeY = 17
+nPosX = 160
+nPosY = 230
+
+[NOTICE]
+nSizeX = 19
+nSizeY = 17
+nPosX = 450
+nPosY = 230
+nItem = 14
+s1 = ==========================================
+s2 = # 테스트에 참여해 주셔서 감사합니다. #
+s3 = 
+s4 = * 화면이 끊어지는 경우는? 
+s5 = 
+s6 = - 사용하시는 비디오카드가 3D가속기능을 지원하는지 확인 해주세요
+s7 = 
+s8 = - 3D카드가 있는 경우여도 적절한 드라이버가 설치되어 있지 않으면 화면이 느려질 수 있습니다. 
+s9 = 
+s10 = - 최신버전의 DirectX, 비디오카드 드라이버의 설치를 권장합니다.
+s11 = 
+s12 = 
+s13 = ==========================================
+s14 = 
+

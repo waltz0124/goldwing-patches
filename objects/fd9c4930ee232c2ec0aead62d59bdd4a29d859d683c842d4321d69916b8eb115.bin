@@ -1,0 +1,95 @@
+[ATTR]
+
+[LSBPLAYER]
+nSizeX = 22
+nSizeY = 13
+nPosX = 426
+nPosY = 110
+
+[BTNCREATE]
+sImage = bt_make.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 427 
+nPosY = 237
+
+[TXWINFO]
+nSizeX = 13
+nSizeY = 11
+nPosX = 510
+nPosY = 125
+
+[EDTCHAT]
+nSizeX = 21
+nPosX = 450
+nPosY = 447
+
+[BTNJOIN]
+sImage = bt_enter.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 316
+nPosY = 237
+
+[BTNEXIT]
+sImage = bt_cnexit.dds
+nSizeX = 110
+nSizeY = 110
+nPosX = 556
+nPosY = 237
+
+[WNDCREATEROOM]
+nSizeX = 18
+nSizeY = 12
+
+[CREATEROOM]
+nNameItem = 10
+s0 = 빨리와요~
+s1 = 한게임 합시다.
+s2 = 어서와요~
+s3 = 하늘의 왕자는 이리로..
+s4 = 오늘도 날아봐~
+s5 = 재미있는 게임!
+s6 = 즐거운 게임!
+s7 = 아무나 와요~
+s8 = 매너게임.
+s9 = 오늘도 좋은 하루~
+
+[TXWCHAT]
+nSizeX = 22
+nSizeY = 11
+nPosX = 426
+nPosY = 347
+
+[BSWROOM]
+nSizeX = 17
+nSizeY = 100
+nPosX = 130
+nPosY = 240
+
+[ROOMPANEL]
+sPanelTex = room_panel.dds
+sNumberTex = room_number.dds
+nSelectTex = roompanel_select.dds
+nSelectSX = 250
+nSelectSY = 250
+nSelectX = -3
+nSelectY = 3
+nPosX = 100
+nGapY = 120
+nRoomSX = 17
+nRoomSY = 7
+nPanelSX = 240
+nPanelSY = 120
+nNumberSX = 50
+nNumberSY = 40
+nStartY = -170
+nLeft = 40
+nTop = 30
+nRight = 120
+nBottom = 70
+nTextStartX = -70
+nTextStartY = -41
+nTextGapY = 18
+nPlayerNoOffX = 130
+
